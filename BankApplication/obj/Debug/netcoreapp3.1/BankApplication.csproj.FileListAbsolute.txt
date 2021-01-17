@@ -1,0 +1,16 @@
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.exe
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.deps.json
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.runtimeconfig.json
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.runtimeconfig.dev.json
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.dll
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.pdb
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankLibrary.dll
+D:\REPOS\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankLibrary.pdb
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.csprojAssemblyReference.cache
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.csproj.CoreCompileInputs.cache
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.AssemblyInfoInputs.cache
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.AssemblyInfo.cs
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.csproj.CopyComplete
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.dll
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.pdb
+D:\REPOS\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.genruntimeconfig.cache
